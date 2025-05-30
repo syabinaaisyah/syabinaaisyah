@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Jaro&size=35&center=true&vCenter=true&color=F7768B&width=500&height=70&duration=4500&lines=Hi+</codes>!+👋;+I'm+Syabina+Aisyah+Putri!;Welcome+to+my+Profile GitHub!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jaro&size=35&center=true&vCenter=true&color=F7768B&width=500&height=70&duration=4500&lines=Hi+👋;I'm+Syabina+Aisyah+Putri!;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 - 🌱 I’m currently learning **JavaScript** Framework
@@ -42,6 +42,8 @@
 ###
 
 <img src="https://raw.githubusercontent.com/syabinaaisyah/syabinaaisyah/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
